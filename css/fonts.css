@@ -1,0 +1,36 @@
+/* OpenSans */
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('OpenSans Light'), local('OpenSans-Light'),
+    url('../fonts/opensans-light-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/opensans-light-webfont.woff') format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('OpenSans Regular'), local('OpenSans-Regular'),
+    url('../fonts/opensans-regular-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/opensans-regular-webfont.woff') format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 600;
+  src: local('OpenSans Semibold'), local('OpenSans-Semibold'),
+    url('../fonts/opensans-semibold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/opensans-semibold-webfont.woff') format('woff'); /* Modern Browsers */
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('OpenSans Bold'), local('OpenSans-Bold'),
+    url('../fonts/opensans-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+    url('../fonts/opensans-bold-webfont.woff') format('woff'); /* Modern Browsers */
+}
